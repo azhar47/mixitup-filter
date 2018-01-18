@@ -1,0 +1,19 @@
+/* 
+     Author : Azhar Hussain Masum
+     Email: azharhussain4647@gmail.com
+     Website:http://www.azharmasum.com
+     Facebook: https://www.facebook.com/azhar.hussainmasum
+*/
+
+.filter-button{
+   
+    margin:20px 0px;
+    text-align: center;
+}
+.mix {
+    visibility: hidden;
+}
+
+.mixitup-ready .mix {
+    visibility: visible;
+}
